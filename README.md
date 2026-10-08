@@ -11,6 +11,7 @@ O acervo completo (todas as faixas em 320 kbps) fica em [bb-mb_files](https://gi
 | `ladeira-da-preguica.mp3` | Ladeira da Preguiça |
 | `cai-dentro.mp3` | Cai Dentro (Maria Rita e Ivete Sangalo) |
 | `aviso-aos-navegantes.mp3` | Aviso aos Navegantes (Elis Regina) |
+| `maria-maria.mp3` | Maria, Maria (ao vivo, estreia Redescobrir 2) |
 
 ## Imagens
 
@@ -20,3 +21,4 @@ O acervo completo (todas as faixas em 320 kbps) fica em [bb-mb_files](https://gi
 | `capa-amor-e-musica.png` | Capa do álbum "Amor e Música" |
 | `capa-coracao-a-batucar.png` | Capa do álbum "Coração a Batucar" |
 | `foto-divulgacao.png` | Foto de divulgação da artista |
+| `maria-maria.png` | Capa da faixa "Maria, Maria" (Clube da Esquina 2, original de Milton) |
