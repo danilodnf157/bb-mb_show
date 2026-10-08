@@ -12,6 +12,7 @@ O acervo completo (todas as faixas em 320 kbps) fica em [bb-mb_files](https://gi
 | `cai-dentro.mp3` | Cai Dentro (Maria Rita e Ivete Sangalo) |
 | `aviso-aos-navegantes.mp3` | Aviso aos Navegantes (Elis Regina) |
 | `maria-maria.mp3` | Maria, Maria (ao vivo, estreia Redescobrir 2) |
+| `lanca-perfume.mp3` | Lança Perfume (ao vivo, Redescobrir 2) |
 
 ## Imagens
 
@@ -22,3 +23,4 @@ O acervo completo (todas as faixas em 320 kbps) fica em [bb-mb_files](https://gi
 | `capa-coracao-a-batucar.png` | Capa do álbum "Coração a Batucar" |
 | `foto-divulgacao.png` | Foto de divulgação da artista |
 | `maria-maria.png` | Capa da faixa "Maria, Maria" (Clube da Esquina 2, original de Milton) |
+| `lanca-perfume.png` | Capa da faixa "Lança Perfume" (álbum Rita Lee, 1980, original) |
